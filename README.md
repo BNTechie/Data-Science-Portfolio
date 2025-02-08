@@ -1,34 +1,32 @@
-# 🏆 Nivedita Bhadra's Data Science Portfolio
+# 🏆 Nivedita Bhadra's Data Science Portfolio  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nivedita-bhadra-ph-d-b5149130/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/BNTechie)
-[![Medium](https://img.shields.io/badge/Medium-Blog%20Posts-green?style=flat&logo=medium)](https://medium.com/@nivedita.home)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:nivedita.home@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nivedita-bhadra-ph-d-b5149130/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/BNTechie)  
+[![Medium](https://img.shields.io/badge/Medium-Blog%20Posts-green?style=flat&logo=medium)](https://medium.com/@nivedita.home)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:nivedita.home@gmail.com)  
 
 🚀 **Senior Data Scientist | Machine Learning | Predictive Modeling | AI in Genomics & Medicine**  
 🔬 **Ph.D. in Computational Physics | 12+ years in Scientific Computing | 5+ years in Data Science**  
 
-Welcome to my **Data Science Portfolio**, where I showcase my work in **machine learning, predictive modeling, NLP, computational biology, and AI-driven analytics**.
+Welcome to my **Data Science Portfolio**, where I showcase my work in **machine learning, predictive modeling, NLP, computational biology, and AI-driven analytics**.  
 
 ---
 
-## 📌 **About Me**
-I am an **Independent Data Science Consultant** with expertise in **predictive modeling, bioinformatics, deep learning, and machine learning applications in healthcare and genomics**. My work spans **clinical trial modeling, computational biology, and AI-driven insights**.
+## 📌 **About Me**  
+I am an **Independent Data Science Consultant** specializing in **predictive modeling, bioinformatics, deep learning, and machine learning applications in healthcare and genomics**. My work spans **clinical trial modeling, computational biology, and AI-driven insights**.  
 
-- **💡 Previous Roles:** Computational Scientist & Staff Scientist at **TGen, USA**
-- **📊 Expertise in:** Python, R, SQL, TensorFlow, PyTorch, scikit-learn, AWS
-- **🔬 Research Impact:** AI in **clinical trials, drug response modeling, genomics, Alzheimer's research**
+- **💡 Previous Roles:** Computational Scientist & Staff Scientist at **TGen, USA**  
+- **📊 Expertise in:** Python, R, SQL, TensorFlow, PyTorch, scikit-learn, AWS  
+- **🔬 Research Impact:** AI in **clinical trials, drug response modeling, genomics, Alzheimer's research**  
 
-📄 **[View My Resume](Resume/CV.pdf)**
+📄 **[View My Resume](Resume/CV.pdf)**  
 
 ---
 
-## 🚀 **Featured Data Science Projects**
-🔍 **Click on the project name to explore the code and documentation!**
+## 🚀 **Featured Data Science Projects**  
+🔍 **Click on the project name to explore the code and documentation!**  
 
-### **1️⃣ Predictive Modeling in Clinical Trials**
-> *Machine Learning for Personalized Drug Response in Oncology*
-
+### **1️⃣ Predictive Modeling in Clinical Trials**  
 📌 **Description:** Developed AI-driven models to predict **drug response, mortality risk, and toxicity** in Phase I clinical trials.  
 🔬 **Tech Stack:** Python, scikit-learn, Random Forest, Super Learner, Survival Analysis  
 📊 **Key Achievements:**  
@@ -40,9 +38,7 @@ I am an **Independent Data Science Consultant** with expertise in **predictive m
 
 ---
 
-### **2️⃣ Alzheimer’s Disease Research**
-> *Single-Cell Proteomics & Machine Learning for Biomarker Discovery*
-
+### **2️⃣ Alzheimer’s Disease Research**  
 📌 **Description:** AI-driven analysis of **protein expression in Alzheimer’s disease neurons** to identify new therapeutic targets.  
 🔬 **Tech Stack:** R, Python, Linear Regression, Mediation Analysis  
 📊 **Key Achievements:**  
@@ -53,9 +49,7 @@ I am an **Independent Data Science Consultant** with expertise in **predictive m
 
 ---
 
-### **3️⃣ Stock Price Prediction with LSTMs**
-> *Time-Series Forecasting for Financial Markets*
-
+### **3️⃣ Stock Price Prediction with LSTMs**  
 📌 **Description:** Built a **deep learning model** using LSTM to predict stock price movements.  
 🔬 **Tech Stack:** Python, TensorFlow, Yahoo Finance API  
 📊 **Key Achievements:**  
@@ -66,9 +60,7 @@ I am an **Independent Data Science Consultant** with expertise in **predictive m
 
 ---
 
-### **4️⃣ Sentiment Analysis on IMDb Reviews**
-> *Natural Language Processing for Sentiment Classification*
-
+### **4️⃣ Sentiment Analysis on IMDb Reviews**  
 📌 **Description:** Implemented **Naive Bayes & TF-IDF vectorization** for **IMDb movie review sentiment classification**.  
 🔬 **Tech Stack:** Python, scikit-learn, NLP, TF-IDF  
 📊 **Key Achievements:**  
@@ -79,19 +71,44 @@ I am an **Independent Data Science Consultant** with expertise in **predictive m
 
 ---
 
-## 📝 **Blog Posts & Articles**
-📌 I frequently write about **AI, Data Science, and Machine Learning applications**.  
+## 📚 **Publications & Research Work**  
+📖 *Selected peer-reviewed publications featuring AI & Data Science applications:*  
 
-📖 **Recent Articles:**
-- [🔍 Sentiment Analysis in Python](Blog/Sentiment-Analysis-Python.md)
-- [📊 Transfer Learning in NLP](Blog/Transfer-Learning.md)
-- [🔮 Predictive Modeling in Data Science](Blog/Predictive-Modeling.md)
+### **1️⃣ AI-Driven Drug Response Prediction in Clinical Trials**  
+📌 **Paper:** Under Review in *Investigational New Drugs*  
+🔬 **Description:** Developed AI models for **predicting individual drug response, 90-day mortality, and toxicity risks**.  
+
+---
+
+### **2️⃣ Single-Cell Proteomics in Alzheimer’s Disease**  
+📌 **Paper:** Published in *Advanced Science*  
+🔬 **Description:** Machine learning-based **protein biomarker discovery** for neuronal hyperexcitability in Alzheimer’s Disease.  
+
+---
+
+### **3️⃣ Longevity & Metabolomics Analysis**  
+📌 **Research:** Applied **distance-based multivariate analysis** to study longevity-related metabolomic profiles.  
+🔬 **Key Contributions:**  
+✔️ Developed **multivariate distance analysis** for high-dimensional metabolomic datasets.  
+✔️ Cross-species data integration for **human longevity research**.  
+
+🔗 **[More Publications](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID)**  
+
+---
+
+## 📝 **Blog Posts & Articles**  
+📖 I frequently write about **AI, Data Science, and Machine Learning applications**.  
+
+📌 **Recent Articles:**  
+- [🔍 Sentiment Analysis in Python](Blog/Sentiment-Analysis-Python.md)  
+- [📊 Transfer Learning in NLP](Blog/Transfer-Learning.md)  
+- [🔮 Predictive Modeling in Data Science](Blog/Predictive-Modeling.md)  
 
 🔗 **[Read All Blog Posts](https://medium.com/@nivedita.home)**  
 
 ---
 
-## 🎯 **Skills & Technologies**
+## 🎯 **Skills & Technologies**  
 💻 **Programming:** Python, R, SQL, Bash  
 📊 **Machine Learning:** scikit-learn, TensorFlow, PyTorch, XGBoost  
 📉 **Data Science:** EDA, Predictive Modeling, Feature Engineering  
@@ -100,7 +117,7 @@ I am an **Independent Data Science Consultant** with expertise in **predictive m
 
 ---
 
-## 📬 **Contact & Connect**
+## 📬 **Contact & Connect**  
 🔗 **GitHub:** [BNTechie](https://github.com/BNTechie)  
 📩 **Email:** [nivedita.home@gmail.com](mailto:nivedita.home@gmail.com)  
 💼 **LinkedIn:** [Nivedita Bhadra](https://www.linkedin.com/in/nivedita-bhadra-ph-d-b5149130/)  
@@ -108,8 +125,7 @@ I am an **Independent Data Science Consultant** with expertise in **predictive m
 
 ---
 
-## ⭐ **How to Use This Portfolio**
-1. **Clone the Repository:**
+## ⭐ **How to Use This Portfolio**  
+1. **Clone the Repository:**  
    ```bash
    git clone https://github.com/BNTechie/Data-Science-Portfolio.git
-
