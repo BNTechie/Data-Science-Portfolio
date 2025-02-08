@@ -1,5 +1,3 @@
-# Data-Science-Portfolio
-
 # 🏆 Nivedita Bhadra's Data Science Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nivedita-bhadra-ph-d-b5149130/)
