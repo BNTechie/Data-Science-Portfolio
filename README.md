@@ -123,9 +123,3 @@ I am an **Independent Data Science Consultant** specializing in **predictive mod
 💼 **LinkedIn:** [Nivedita Bhadra](https://www.linkedin.com/in/nivedita-bhadra-ph-d-b5149130/)  
 ✍️ **Blog:** [Medium Articles](https://medium.com/@nivedita.home)  
 
----
-
-## ⭐ **How to Use This Portfolio**  
-1. **Clone the Repository:**  
-   ```bash
-   git clone https://github.com/BNTechie/Data-Science-Portfolio.git
