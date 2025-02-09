@@ -36,7 +36,7 @@ I am an **Independent Data Science Consultant** specializing in **predictive mod
 
 🔗 **[GitHub Repository](Projects/Predictive-Modeling-Clinical-Trials)**  
 
-**Summary
+### **Summary**
 
 This study aimed to develop predictive models for responses in Phase I oncology trials using demographic and clinical chemistry data. The study leveraged data from 1,386 participants across 252 Phase I trials conducted within the US Oncology clinical trial network from 2007 to 2018. The outcomes examined included time on experimental therapy, survival relative to prior therapy, 90-day mortality, and Grade 5 toxicity.
 
