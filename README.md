@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:nivedita.home@gmail.com)  
 
 🚀 **Senior Data Scientist | Machine Learning | Predictive Modeling | AI in Genomics & Medicine**  
-🔬 **Ph.D. in Computational Physics | 12+ years in Scientific Computing | 5+ years in Data Science**  
+🔬 **Ph.D. in Computational Physics | 12+ years in Scientific Computing | 7+ years in Data Science**  
 
 Welcome to my **Data Science Portfolio**, where I showcase my work in **machine learning, predictive modeling, NLP, computational biology, and AI-driven analytics**.  
 
