@@ -23,8 +23,8 @@ I am an **Independent Data Science Consultant** specializing in **predictive mod
 
 ---
 
-## 🚀 **Featured Data Science Projects**  
-🔍 **Click on the project name to explore the code and documentation!**  
+## 🚀 **Published Research work involving Data Analysis**  
+
 
 ### **1️⃣ Predictive Modeling in Clinical Trials**  
 📌 **Description:** Developed AI-driven models to predict **drug response, mortality risk, and toxicity** in Phase I clinical trials.  
@@ -87,6 +87,9 @@ Key Findings:
 The study identified ~1,400 proteins correlated with neuronal hyperactivity in AD, including key upregulated proteins such as Clusterin (CLU), Calreticulin (CALR), and Apolipoprotein E (APOE). Mediation analysis suggested that dysregulated proteins drive hyperexcitability rather than the other way around. These findings highlight novel targets for AD therapy.
 
 ---
+
+**## 🚀 **Other Data Science Projects**  **
+
 
 ### **3️⃣ Stock Price Prediction with LSTMs**  
 📌 **Description:** Built a **deep learning model** using LSTM to predict stock price movements.  
