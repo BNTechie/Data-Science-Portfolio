@@ -86,19 +86,7 @@ Key Findings:
 
 The study identified ~1,400 proteins correlated with neuronal hyperactivity in AD, including key upregulated proteins such as Clusterin (CLU), Calreticulin (CALR), and Apolipoprotein E (APOE). Mediation analysis suggested that dysregulated proteins drive hyperexcitability rather than the other way around. These findings highlight novel targets for AD therapy.
 
----
 
-**## 🚀 **Other Data Science Projects**  **
-
-
-### **3️⃣ Stock Price Prediction with LSTMs**  
-📌 **Description:** Built a **deep learning model** using LSTM to predict stock price movements.  
-🔬 **Tech Stack:** Python, TensorFlow, Yahoo Finance API  
-📊 **Key Achievements:**  
-✔️ Trained an **LSTM model for stock forecasting**  
-✔️ Analyzed **trend patterns and volatility**  
-
-🔗 **[GitHub Repository](Projects/Stock-Prediction)**  
 
 ---
 
@@ -173,7 +161,19 @@ Key Findings:
 
 The study revealed several multivariate patterns in the Longevity Consortium data, highlighting the utility of distance-based methods in analyzing complex metabolomic profiles. These findings suggest potential pathways and networks associated with longevity, providing a foundation for future research in aging and metabolomics. 
 
+---
 
+**## 🚀 **Other Data Science Projects**  **
+
+
+### **3️⃣ Stock Price Prediction with LSTMs**  
+📌 **Description:** Built a **deep learning model** using LSTM to predict stock price movements.  
+🔬 **Tech Stack:** Python, TensorFlow, Yahoo Finance API  
+📊 **Key Achievements:**  
+✔️ Trained an **LSTM model for stock forecasting**  
+✔️ Analyzed **trend patterns and volatility**  
+
+🔗 **[GitHub Repository](Projects/Stock-Prediction)**  
 
 ---
 
