@@ -36,6 +36,26 @@ I am an **Independent Data Science Consultant** specializing in **predictive mod
 
 🔗 **[GitHub Repository](Projects/Predictive-Modeling-Clinical-Trials)**  
 
+**Summary
+
+This study aimed to develop predictive models for responses in Phase I oncology trials using demographic and clinical chemistry data. The study leveraged data from 1,386 participants across 252 Phase I trials conducted within the US Oncology clinical trial network from 2007 to 2018. The outcomes examined included time on experimental therapy, survival relative to prior therapy, 90-day mortality, and Grade 5 toxicity.
+
+Your Contribution:
+You were involved in the development and validation of predictive models, focusing on integrating mixed models and machine learning techniques. Your role included designing statistical frameworks, preprocessing clinical trial data, and applying predictive modeling strategies to improve patient selection for Phase I trials.
+
+Technical Skills:
+
+Statistical modeling (random effects models, logistic regression, survival analysis)
+Machine learning techniques (Random Forest, Super Learner ensemble modeling)
+Data imputation (MICE)
+Feature selection and sensitivity analysis
+Use of R for statistical computing and analysis
+Key Findings:
+The study identified key biomarkers associated with patient outcomes, including elevated white blood cells, low albumin, and hemoglobin levels as predictors of mortality risk. Machine learning models demonstrated >80% AUC in predicting dichotomous outcomes, highlighting the potential of routine clinical data in guiding Phase I oncology trial participation.
+
+
+
+
 ---
 
 ### **2️⃣ Alzheimer’s Disease Research**  
