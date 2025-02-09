@@ -50,7 +50,9 @@ Machine learning techniques (Random Forest, Super Learner ensemble modeling)
 Data imputation (MICE)
 Feature selection and sensitivity analysis
 Use of R for statistical computing and analysis
+
 Key Findings:
+
 The study identified key biomarkers associated with patient outcomes, including elevated white blood cells, low albumin, and hemoglobin levels as predictors of mortality risk. Machine learning models demonstrated >80% AUC in predicting dichotomous outcomes, highlighting the potential of routine clinical data in guiding Phase I oncology trial participation.
 
 
@@ -66,6 +68,23 @@ The study identified key biomarkers associated with patient outcomes, including 
 ✔️ Contributed to **peer-reviewed publication in Advanced Science**  
 
 🔗 **[GitHub Repository](Projects/Alzheimers-Research)**  
+
+### **Summary**
+
+This study combined single-cell electrophysiology and proteomics to investigate aberrant protein expression and hyperexcitability in Alzheimer’s disease (AD) patient-derived induced pluripotent stem cell (iPSC) neurons. The study aimed to correlate electrophysiological abnormalities with proteomic alterations, uncovering novel therapeutic targets.
+
+Your Contribution:
+Your role involved data analysis, bioinformatics integration, and interpretation of results linking proteomic alterations to hyperexcitable neuronal phenotypes. You contributed to the linear regression and mediation analysis framework to establish causal relationships between protein expression and neuronal dysfunction.
+
+Technical Skills:
+
+Bioinformatics (STRING Reactome pathway analysis, gene ontology enrichment)
+Mediation analysis to infer causal relationships
+High-dimensional data visualization and statistical modeling
+
+Key Findings:
+
+The study identified ~1,400 proteins correlated with neuronal hyperactivity in AD, including key upregulated proteins such as Clusterin (CLU), Calreticulin (CALR), and Apolipoprotein E (APOE). Mediation analysis suggested that dysregulated proteins drive hyperexcitability rather than the other way around. These findings highlight novel targets for AD therapy.
 
 ---
 
